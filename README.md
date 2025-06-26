@@ -10,8 +10,7 @@ I have implemented all the mentioned features using the following tech stack:
 The dashboard supports interactive charts, data-driven insights, and all the specified filters such as end year, topic, region, sector, PEST, SWOT, source, and more. The application reads data from MongoDB and displays it in a clean, responsive UI.
 
 CLONE AND RUN THE FOLLOWING COMMANDS:
-node importData.js
-node server.js
+node importData.js, node server.js
 
 The MAIN STRUCTURE AND UI :
 
