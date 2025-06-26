@@ -9,6 +9,10 @@ I have implemented all the mentioned features using the following tech stack:
 -> Additional Utilities: Environment configuration, dynamic routing, API integration, and data filtering
 The dashboard supports interactive charts, data-driven insights, and all the specified filters such as end year, topic, region, sector, PEST, SWOT, source, and more. The application reads data from MongoDB and displays it in a clean, responsive UI.
 
+CLONE AND RUN THE FOLLOWING COMMANDS:
+node importData.js
+node server.js
+
 The MAIN STRUCTURE AND UI :
 
 ![Screenshot 2025-06-26 124533](https://github.com/user-attachments/assets/5a7f8077-f2c1-412c-b0ca-dc89f2ddc967)
